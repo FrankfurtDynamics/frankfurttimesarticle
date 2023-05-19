@@ -1,63 +1,21 @@
 {
-  "frankfurt": [
-    {
-      "title": "Test article",
-      "url": "/article.html?t=frankfurt&id=0",
-      "author": "Christian F",
-      "date": "13-05-2023",
-      "img": "/favicon.png",
-      "preview_text": "Warnstreik bei der Bahn ist vorerst abgewendet. Das Unternehmen und die Gewerkschaft EVG haben nach ARD -Informationen einem verpflichtenden Vergleich zugestimmt. Was das für Bahnkunden bedeutet, ist noch unklar.",
-      "content": [
-        {
-          "type": "plain",
-          "text": "Der geplante Warnstreik bei der Bahn ist vorerst abgewendet. Das Unternehmen und die Gewerkschaft EVG haben nach ARD-Informationen einem verpflichtenden Vergleich zugestimmt. Was das für Bahnkunden bedeutet, ist noch unklar. \n Bei der Deutschen Bahn wird es in den kommenden Tagen nun doch erst mal keinen Warnstreik geben. Nach Informationen der ARD haben sowohl die Eisenbahn- und Verkehrsgewerkschaft (EVG) als auch die Bahn einem verpflichtenden Vergleich zugestimmt, den das Arbeitsgericht in Frankfurt vorgelegt hatte. Ein Streik in der kommenden Woche ist damit aber nicht ausgeschlossen. \n Die zuständige Richterin hatte den Verlgeich laut ARD-Informationen vorgeschlagen und mehrfach angedeutet, sie habe Zweifel an der Rechtmäßigkeit des angekündigten Streiks. Die EVG laufe Gefahr, vor Gericht zu unterliegen, wenn sie dem Vergleich nicht zustimme. \n Unklar, ob es dennoch Behinderungen geben könnte \n Die EVG erklärte demnach, sie verzichte auf den von Sonntagabend bis Dienstagnacht geplanten Ausstand. Noch ist unklar, ob es trotzdem zu Ausfällen oder Behinderungen kommen wird und was es für umgetauschte Tickets bedeutet. Philipp Nagl, Chef der DB Netz AG, sagte: 'Wir werden alles geben, um unseren Kundinnen und Kunden einen möglichst regulären Verkehr anzubieten.' Die Planungen für Montag und Dienstag würden sofort aufgenommen. Am Sonntag würden Details bekannt gegeben, inwieweit der Betrieb regulär laufen könne. Nagl geht von einem 'weitgehend normalen Betrieb' aus."
-        },
-        {
-          "type": "src",
-          "srcs": [
-            "https://www.tagesschau.de/eilmeldung/bahn-evg-vergleich-warnstreik-abgewendet-100.html"
-          ]
-        }
-      ]
-    },
-    {"title":"Christian um 01.54 noch wach","date":"18.05.2023","img":"https://media.tenor.com/CgGUXc-LDc4AAAAC/hacker-pc.gif","author":"Christian F","preview_text":"Christian telefoniert um 01.54 immernoch mit seinem Freund in Kanada","url":"/article?t=frankfurt&id=1","content":[{"type":"plain","text":"Christian F hat Sturmfrei und telefoniert deshalb seit über 2 Stunden mit seinem Freund in Kanada via Discord."}]},
-    {
-      "title": "Test article",
-      "url": "/article.html?t=frankfurt&id=0",
-      "author": "Christian F",
-      "date": "13-05-2023",
-      "img": "/favicon.png",
-      "preview_text": "Warnstreik bei der Bahn ist vorerst abgewendet. Das Unternehmen und die Gewerkschaft EVG haben nach ARD -Informationen einem verpflichtenden Vergleich zugestimmt. Was das für Bahnkunden bedeutet, ist noch unklar.",
-      "content": [
-        {
-          "type": "plain",
-          "text": "Der geplante Warnstreik bei der Bahn ist vorerst abgewendet. Das Unternehmen und die Gewerkschaft EVG haben nach ARD-Informationen einem verpflichtenden Vergleich zugestimmt. Was das für Bahnkunden bedeutet, ist noch unklar. \n Bei der Deutschen Bahn wird es in den kommenden Tagen nun doch erst mal keinen Warnstreik geben. Nach Informationen der ARD haben sowohl die Eisenbahn- und Verkehrsgewerkschaft (EVG) als auch die Bahn einem verpflichtenden Vergleich zugestimmt, den das Arbeitsgericht in Frankfurt vorgelegt hatte. Ein Streik in der kommenden Woche ist damit aber nicht ausgeschlossen. \n Die zuständige Richterin hatte den Verlgeich laut ARD-Informationen vorgeschlagen und mehrfach angedeutet, sie habe Zweifel an der Rechtmäßigkeit des angekündigten Streiks. Die EVG laufe Gefahr, vor Gericht zu unterliegen, wenn sie dem Vergleich nicht zustimme. \n Unklar, ob es dennoch Behinderungen geben könnte \n Die EVG erklärte demnach, sie verzichte auf den von Sonntagabend bis Dienstagnacht geplanten Ausstand. Noch ist unklar, ob es trotzdem zu Ausfällen oder Behinderungen kommen wird und was es für umgetauschte Tickets bedeutet. Philipp Nagl, Chef der DB Netz AG, sagte: 'Wir werden alles geben, um unseren Kundinnen und Kunden einen möglichst regulären Verkehr anzubieten.' Die Planungen für Montag und Dienstag würden sofort aufgenommen. Am Sonntag würden Details bekannt gegeben, inwieweit der Betrieb regulär laufen könne. Nagl geht von einem 'weitgehend normalen Betrieb' aus."
-        },
-        {
-          "type": "src",
-          "srcs": [
-            "https://www.tagesschau.de/eilmeldung/bahn-evg-vergleich-warnstreik-abgewendet-100.html"
-          ]
-        }
-      ]
-    }
-  ],
+  "frankfurt": [],
   "wirtschaft": [],
-  "usa": [
+  "usa": [],
+  "international": [
     {
-      "title": "Test1",
-      "date": "16.05.2023",
-      "img": "/favicon.png",
-      "author": "Christian F",
-      "preview_text": "Hallo Welt Ich bin Christian Ich mag **programmieren**!",
-      "url": "/article.html?t=usa&id=0",
+      "title": "Deutschland liefert gegen russische Panzer erprobte Tiger",
+      "date": "17.05.2023",
+      "img": "https://frankfurtdynamics.github.io/frankfurttimesarticle/FrankfurtTimesimg/Scholztank.png",
+      "author": "Samuel G",
+      "preview_text": "Nachdem neueste Satellitenbider zeigen, dass Russland nun T-34 einsetzt, hat Verteidigungsminister Pistorius die Entscheidung getroffen, der Ukraine nun Kampfpanzer zu schicken. Dabei handelt es sich jedoch nicht wie zuvor um Leopard 2 sondern um den laut Beratern sehr erprobten Tiger. Dieser sei nicht nur das größere Raubtier sondern sei auch sehr erprobt. Die Ukraine und andere Nato-Verbündete reagierten mit Verwirrung auf die Entscheidung. Es werden dieses Jahr noch 87 Museumsexemplare erwartet.",
+      "url": "/article.html?t=international&id=0",
       "content": [
         {
           "type": "plain",
-          "text": "Hallo Welt\nIch bin Christian\n**Ich** __mag__ *programmieren*!"
+          "text": "Es ist 03:55 Uhr: Verteidigungsminister Pistorius kommt aus dem Mac Donalds und tritt nach 5 Stunden vor die Kamera, um das Ergbniss des langen Gespräches über die Nacht mit der ehemaligen Verteidigungsministerin Lambrecht zu präsentieren. Thema war die Lieferung von Kampfpanzern, nachdem in Satelitenbildern sichtbar wurde, dass Russland im Kampf gegen die Ukraine die modernen *T-34* Kampfpanzer einsetzt.\nDeutschland soll laut Pistorius noch diese Woche der Ukraine nun doch Kampfpanzer schicken. Jedoch nicht den modernen Leopard 2, sondern den \"erpropten\" Tiger. Dieser sei nicht nur das größere Raubtier, sondern sei auch gegen russische T-34 sehr erprobt.\nAllerdings reagierten die Ukraine und die NATO-Partner Frankreich und Bayern mit Verwirrung. \nLaut Experten wäre es möglich innerhalb einer Woche 87 Museumsexemplare des Typs *Tiger* per Schienennetz nach Kiev zu schicken. Vorraussetzung dafür wäre, dass die Deutsche Bahn ausnahmsweise pünktlich kommt. \nLaut unseren Agenten hat die Bahn eine extra Sitzung für nächsten Monat eingeplant. Thema ist unteranderem die Lieferung der Panzer."
         }
       ]
     }
-  ],
-  "international": []
+  ]
 }
