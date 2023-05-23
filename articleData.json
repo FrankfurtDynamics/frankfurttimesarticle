@@ -1,7 +1,14 @@
 {
   "frankfurt": [],
   "wirtschaft": [],
-  "usa": [],
+  "usa": [
+    {
+      "title":"Warum auch wir Kindergarten Kinder bewaffnen sollten",
+      "date":"23.05.23",
+      "img":"",
+      "author":"Jack Goralk",
+      "preview_text":"Es gibt in Deutschland Gewalt! Um unsere Kinder davor zu schützen brauchen sie Waffen. Ich habe die Erfahrung bereits gemacht, ich bringe meine Kinder seit einem Jahr mit einem Leopard 2 zur Schule. Wurden Sie bisher, überfallen Nein! Also funktionieren Waffen. Wissen Sie als ich in der zweiten Klasse war, hat man mir ein schlimmes Verbrechen angetan, man hat mir mein Lego geklaut, das wäre nicht passiert, wenn ich den Bastard hätte erschießen dürfen. Wie jeder schlaue Mensch weiß, der beste Freund des Menschen ist eine AR-15.","url":"/article.html?t=USA&id=0","content":[{"type":"plain","text":""},
+      {"type":"plain","text":"Wallah"}]}],
   "international": [
     {
       "title": "Deutschland liefert gegen russische Panzer erprobte Tiger",
